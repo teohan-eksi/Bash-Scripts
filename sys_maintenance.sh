@@ -11,5 +11,5 @@ sudo apt autoclean
 
 echo "\n$(date "+%T") - Script Terminated"
 
-echo "\nPress enter to quit."
+echo "\nPress Enter to quit."
 read var
