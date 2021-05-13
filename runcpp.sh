@@ -1,6 +1,10 @@
 
 
 
+#For a single file, enter the cpp file name that you want to make,
+#For multiple files, write necessary commands shown below.
+#Hopefully, your program should run after running the script.
+
 file_name="file name"
 make $file_name
 
