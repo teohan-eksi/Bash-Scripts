@@ -1,2 +1,2 @@
-source ~/Desktop/Dat-Sci/Jupyter/jupyterenv/bin/activate
+source ~/Jupyter/jupyterenv/bin/activate
 jupyter notebook
